@@ -3,7 +3,7 @@
 ## OPEN SOURCE CONTEST
 # STUDENT CODE IN
 ## About SCI   
-[Student Code-in](https://scodein.tech/) is a global program that helps students grow with “OPEN SOURCE”. It is a 2 months long Open-Source initiative which provides you the best platform to improve your skills and abilities by contributing to vast variety of OPEN SOURCE Projects. In this,all the registered participants would get an exquisite opportunity to interact with the mentors and the Organizing Team. 
+[Student Code-in](https://scodein.tech/) is a global program that helps students grow with “OPEN SOURCE”. It is a 2 months long Open-Source initiative which provides you the best platform to improve your skills and abilities by contributing to a vast variety of OPEN SOURCE Projects. In this,all the registered participants would get an exquisite opportunity to interact with the mentors and Organizing Team. 
 
 <img src= "https://github.com/StudentCode-in/PsychHelp/blob/master/STUDENT%20CODE-IN.jpg" height=500 width=500>
 
@@ -25,7 +25,7 @@
 
 
 ## :innocent: Motivation
-In the present scenario due to Covid-19, there is no efficient face mask detection applications which are now in high demand for transportation means, densely populated areas, residential districts, large-scale manufacturers and other enterprises to ensure safety. Also, the absence of large datasets of __‘with_mask’__ images has made this task more cumbersome and challenging. 
+In the present scenario due to Covid-19, there is no efficient face mask detection application which are now in high demand for transportation means, in densely populated areas, residential districts, large-scale manufacturers and other enterprises to ensure safety. Also, the absence of large datasets of __‘with_mask’__ images has made this task more cumbersome and challenging. 
 
  
 ## :hourglass: Project Demo
